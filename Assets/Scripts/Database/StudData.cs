@@ -9,7 +9,7 @@ public class StudData : MonoBehaviour
         buttonn.onClick.AddListener(() =>
         {
 
-            StartCoroutine(Mainn.Instance.Web.GetUsers());
+            StartCoroutine(Mainn.Instance.Web.GetUsers7A());
         });
     }
 }

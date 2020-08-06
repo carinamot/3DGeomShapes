@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Welcome.unity
     guid: b5d5235b63f996e43a47c11098e09ef8
   - enabled: 1
+    path: Assets/Scenes/ProfLogin.unity
+    guid: 31857bf18055b45488394a743d62216d
+  - enabled: 1
+    path: Assets/Scenes/ShowStudents.unity
+    guid: e983c881b7d24fa45a86280c75866b50
+  - enabled: 1
     path: Assets/Scenes/LoginPhP.unity
     guid: abd9193cc9e03074b94a386210c8d6f4
   - enabled: 1
@@ -39,11 +45,23 @@ EditorBuildSettings:
     path: Assets/Scenes/Sfera.unity
     guid: a3621748af3f0e444804bcc79b9a27d4
   - enabled: 1
+    path: Assets/Scenes/SferaEx.unity
+    guid: 11cb20b647cb2bc489a6f2d0dd850278
+  - enabled: 1
     path: Assets/Scenes/Piramida.unity
     guid: 142ddf5fdff40cc4ca8e1547ad6c2fac
   - enabled: 1
+    path: Assets/Scenes/PiramidaP.unity
+    guid: d7d3c0fedc242b7418346a3200a755e0
+  - enabled: 1
+    path: Assets/Scenes/PiramidaT.unity
+    guid: 9e655dbcd9d6e1a48bbbe9efa68381a2
+  - enabled: 1
     path: Assets/Scenes/Conul.unity
     guid: 1f619dcd1b25c374b9722c579f926f01
+  - enabled: 1
+    path: Assets/Scenes/ConEx.unity
+    guid: 0f3d78830712f104db110512b4ae3151
   - enabled: 1
     path: Assets/Scenes/Cub2.unity
     guid: 9221f186c6c23e547a32946ec308e564
@@ -51,11 +69,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Cub3.unity
     guid: ccca0bc787c4cf84fb28aea5c3a5caae
   - enabled: 1
+    path: Assets/Scenes/Paralelipiped.unity
+    guid: 48cbeaba44e2f34448ecd549c5b5d9ea
+  - enabled: 1
     path: Assets/Scenes/PlayQuiz.unity
     guid: 364ba36e18f0c7a4daf9ab9497165a29
   - enabled: 1
     path: Assets/Scenes/Quizz.unity
     guid: b6c0e85b9c927e74a8bceee3a89cb115
+  - enabled: 1
+    path: Assets/Scenes/GetQuizScore.unity
+    guid: d26d692e56082c849b712eff3b03f23a
+  - enabled: 1
+    path: Assets/Scenes/Admin.unity
+    guid: ff70b733c9a562340a99a5777ca42913
+  - enabled: 1
+    path: Assets/Scenes/AdminCreare.unity
+    guid: 6ca3f2199b67afa498ca1851db913437
+  - enabled: 1
+    path: Assets/Scenes/AdminStergere.unity
+    guid: 00ca1ae8570f6114fa8c991f1067d0c2
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000

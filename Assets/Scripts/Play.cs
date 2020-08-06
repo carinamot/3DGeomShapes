@@ -16,11 +16,43 @@ public class Play : MonoBehaviour
         SceneManager.LoadScene("SwipeMenu");
     }
 
+    public void ShowStudents()
+    {
+        SceneManager.LoadScene("ShowStudents");
+    }
+
     public void MainMenu()
     {
         SceneManager.LoadScene("Menu");
     }
 
+    public void LoginStud()
+    {
+        SceneManager.LoadScene("LoginPhp");
+    }
+    public void LoginTeacher()
+    {
+        SceneManager.LoadScene("ProfLogin");
+    }
+
+    public void Admin()
+    {
+        SceneManager.LoadScene("Admin");
+    }
+
+    public void AdminCreare()
+    {
+        SceneManager.LoadScene("AdminCreare");
+    }
+    public void AdminStergere()
+    {
+        SceneManager.LoadScene("AdminStergere");
+    }
+
+    public void Welcome()
+    {
+        SceneManager.LoadScene("Welcome");
+    }
 
     public void PlayQuiz()
     {
@@ -50,6 +82,11 @@ public class Play : MonoBehaviour
     public void Paralelipiped()
     {
         SceneManager.LoadScene("Parleliiped");
+    }
+
+    public void ParalelipipedEx()
+    {
+        SceneManager.LoadScene("Paralelipiped");
     }
 
     public void Sfera()

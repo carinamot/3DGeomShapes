@@ -15,15 +15,15 @@ MonoBehaviour:
   _info: "Un cub are muchia de 7 cm. Afla\u021Bi suma lungimilor muchiilor sale (...
     cm)."
   _answers:
-  - _info: "83\t\t\t\t"
+  - _info: 85
     _isCorrect: 0
   - _info: 84
     _isCorrect: 1
   - _info: 78
     _isCorrect: 0
-  - _info: 80
+  - _info: 75
     _isCorrect: 0
   _useTimer: 1
-  _timer: 8
+  _timer: 200
   _answerType: 1
   _addScore: 10

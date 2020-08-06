@@ -1,11 +1,12 @@
 ﻿
+using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class LoginProfeor : MonoBehaviour
 {
-    public InputField username;
-    public InputField password;
+    public TMP_InputField usernameP;
+    public TMP_InputField passwordP;
     public Button loginButton;
 
     void Start()
@@ -13,8 +14,8 @@ public class LoginProfeor : MonoBehaviour
         loginButton.onClick.AddListener(() =>
         {
 
-            StartCoroutine(Mainn.Instance.Web.LoginProf(username.text, password.text));
-           // StartCoroutine(Mainn.Instance.Web.LoginProf(username.text, password.text));
+            StartCoroutine(Mainn.Instance.Web.LoginProf(usernameP.text, passwordP.text));
+          
 
         });
     }

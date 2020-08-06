@@ -24,6 +24,6 @@ MonoBehaviour:
   - _info: ' 36, 54, 27'
     _isCorrect: 1
   _useTimer: 1
-  _timer: 20
+  _timer: 200
   _answerType: 1
   _addScore: 10

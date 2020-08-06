@@ -10,6 +10,6 @@ public class EndTrigger : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         gameManager.Complete();
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene("Menu");
     }
 }

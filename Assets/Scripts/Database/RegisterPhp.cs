@@ -4,6 +4,8 @@ using UnityEngine.UI;
 
 public class RegisterPhp : MonoBehaviour
 {
+    public TMP_InputField firstName;
+    public TMP_InputField lastName;
     public TMP_InputField username;
     public TMP_InputField password;
     public TMP_InputField grade;
@@ -16,7 +18,7 @@ public class RegisterPhp : MonoBehaviour
         registerButton.onClick.AddListener(() =>
         {
 
-            StartCoroutine(Mainn.Instance.Web.Register(username.text, password.text, grade.text, email.text));
+            StartCoroutine(Mainn.Instance.Web.Register(firstName.text, lastName.text, username.text, password.text, grade.text, email.text));
         });
 
     }

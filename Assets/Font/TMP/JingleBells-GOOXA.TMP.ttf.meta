@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cbd79513d4f60e64dac1b9f26c3e51e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Jingle Bells
+  fontNames:
+  - Jingle Bells
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8120c2a320391ac4eb4637ab97c415fc, type: 3}
+  - {fileID: 12800000, guid: 3702fbfd20b3f434188d189e12b95184, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
